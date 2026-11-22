@@ -1,0 +1,12 @@
+# Binarios compilados C
+listaEnlazadaDobleCircular
+lista_simple
+*.o
+*.out
+build/
+
+# MARS / IDEs
+.idea/
+.vscode/
+*.swp
+*.bak
